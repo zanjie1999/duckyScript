@@ -1,0 +1,2 @@
+# duckyScript
+Script for espUSB
